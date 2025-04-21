@@ -1,51 +1,31 @@
-import os
 import json
-from typing import Dict, Any, List, Optional
+import os
+from typing import Any, Dict, List, Optional
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 class Config:
-    """Configuration management"""
+    """Configuration management using environment variables"""
 
-    def __init__(self, config_file: str = "config.json"):
-        """Initialize configuration
-
-        Args:
-            config_file: Path to config file
-        """
-        self.config_file = config_file
+    def __init__(self):
+        """Initialize configuration from environment variables"""
         self.config = self._load_config()
 
     def _load_config(self) -> Dict[str, Any]:
-        """Load configuration from file"""
-        default_config = {
-            "db_path": "/Users/romannovikov/Library/Messages/chat.db",
-            "data_file": "expenses.json"
+        """Load configuration from environment variables with defaults"""
+        return {
+            # Get values from environment variables or use defaults
+            "db_path": os.environ.get("EXPENSE_TRACKER_DB_PATH"),
+            "data_file": os.environ.get("EXPENSE_TRACKER_DATA_FILE",
+                "expenses.json"),
         }
-
-        if os.path.exists(self.config_file):
-            try:
-                with open(self.config_file, 'r') as f:
-                    return json.load(f)
-            except:
-                return default_config
-        else:
-            # Save default config
-            with open(self.config_file, 'w') as f:
-                json.dump(default_config, f, indent=2)
-            return default_config
-
-    def save_config(self):
-        """Save configuration to file"""
-        with open(self.config_file, 'w') as f:
-            json.dump(self.config, f, indent=2)
 
     def get(self, key: str, default: Any = None) -> Any:
         """Get configuration value"""
         return self.config.get(key, default)
-
-    def set(self, key: str, value: Any):
-        """Set configuration value"""
-        self.config[key] = value
-        self.save_config()
 
 class ExpenseStore:
     """Store for persisting categorized expenses"""
@@ -64,7 +44,7 @@ class ExpenseStore:
         Args:
             expenses: List of expense dictionaries
         """
-        with open(self.data_file, 'w') as f:
+        with open(self.data_file, "w") as f:
             json.dump(expenses, f, indent=2)
 
     def load_expenses(self) -> List[Dict[str, Any]]:
@@ -75,7 +55,7 @@ class ExpenseStore:
         """
         if os.path.exists(self.data_file):
             try:
-                with open(self.data_file, 'r') as f:
+                with open(self.data_file) as f:
                     return json.load(f)
             except:
                 return []

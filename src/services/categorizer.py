@@ -1,18 +1,19 @@
 from typing import Dict, List
 
+
 class ExpenseCategorizer:
     """Categorizes expenses based on merchant names"""
 
     def __init__(self):
         """Initialize with default categories and keywords"""
         self.categories: Dict[str, List[str]] = {
-            "grocery": ["carrefour", "al maya", "supermarket", "grocery", "lulu", "spinneys", "waitrose"],
-            "restaurant": ["restaurant", "cafe", "coffee", "bkk", "thai", "hanoi", "food", "bistro", "eatery"],
+            "grocery": ["carrefour", "al maya", "spinneys", "waitrose", "viva"],
+            "restaurant": ["gastronomy nasha kuhny"],
             "entertainment": ["cinema", "movie", "theatre", "event", "concert", "game", "amazon", "apple"],
             "transport": ["careem", "uber", "taxi", "rta", "metro", "bus", "petrol", "gas", "fuel"],
             "clothes": ["apparel", "fashion", "zara", "h&m", "clothing", "shoes", "dress", "wear"],
-            "utilities": ["dewa", "internet", "phone", "mobile", "du", "etisalat", "utility"],
-            "other": []  # Default category
+            "utilities": [" virgin mobile"],
+            "other": [],  # Default category
         }
 
     def categorize(self, merchant: str) -> str:
