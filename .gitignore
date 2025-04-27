@@ -175,3 +175,4 @@ cython_debug/
 
 # Logs and json files
 expenses.json
+report.json
