@@ -1,975 +1,402 @@
 [
   {
-    "amount": 40.6,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 40.6 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T19:07:15.322701"
-  },
-  {
-    "amount": 75.0,
-    "merchant": "D",
-    "category": "other",
-    "message": "Payment of AED 75 was done at Digg vintage and thrif using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-19T15:41:41.480455"
-  },
-  {
-    "amount": 27.36,
+    "amount": 83.35,
     "merchant": "Al Maya",
     "category": "grocery",
-    "message": "Payment of AED 27.36 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-24T18:54:39.260800"
+    "message": "Payment of AED 83.35 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-25T20:22:04.321150"
+  },
+  {
+    "amount": 33.6,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-25T15:11:30.693764"
+  },
+  {
+    "amount": 42.0,
+    "merchant": "Streetery Dmcc",
+    "category": "restaurant",
+    "message": "Payment of AED 42 was done at Streetery Dmcc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-24T15:12:19.119259"
+  },
+  {
+    "amount": 43.05,
+    "merchant": "Restaurant",
+    "category": "restaurant",
+    "message": "Payment of AED 43.05 was done at Restaurant using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-23T16:23:12.626185"
+  },
+  {
+    "amount": 48.0,
+    "merchant": "Manoushe n bites dmcc",
+    "category": "restaurant",
+    "message": "Payment of AED 48 was done at Manoushe n bites dmcc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-22T15:37:45.285030"
+  },
+  {
+    "amount": 5.95,
+    "merchant": "Al Maya",
+    "category": "grocery",
+    "message": "Payment of AED 5.95 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-21T19:16:32.166476"
+  },
+  {
+    "amount": 48.0,
+    "merchant": "Manoushe n bites dmcc",
+    "category": "restaurant",
+    "message": "Payment of AED 48 was done at Manoushe n bites dmcc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-21T16:05:21.798819"
+  },
+  {
+    "amount": 35.53,
+    "merchant": "Carrefour",
+    "category": "grocery",
+    "message": "Payment of AED 35.53 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-20T18:05:55.097686"
+  },
+  {
+    "amount": 132.04,
+    "merchant": "Carrefour",
+    "category": "grocery",
+    "message": "Payment of AED 132.04 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-19T19:33:20.813106"
+  },
+  {
+    "amount": 13.7,
+    "merchant": "Al Maya Supermarket",
+    "category": "grocery",
+    "message": "Payment of AED 13.7 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-18T19:37:44.385354"
+  },
+  {
+    "amount": 52.85,
+    "merchant": "Paymob dobraw dmcc",
+    "category": "restaurant",
+    "message": "Payment of AED 52.85 was done at Paymob dobraw dmcc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-18T15:59:31.293105"
+  },
+  {
+    "amount": 48.3,
+    "merchant": "Transfer from KLIM KOSTIUK",
+    "category": "transport",
+    "message": "AED 48.30 sent by KLIM KOSTIUK and has been credited into your account number 60XXXX8103.",
+    "is_income": true,
+    "date": "2025-04-17T15:36:35.469585"
+  },
+  {
+    "amount": 48.3,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 48.3 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-17T15:31:23.774956"
+  },
+  {
+    "amount": 35.7,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-17T15:30:01.390390"
+  },
+  {
+    "amount": 28.8,
+    "merchant": "Carrefour",
+    "category": "grocery",
+    "message": "Payment of AED 28.8 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-16T20:10:49.473985"
+  },
+  {
+    "amount": 39.0,
+    "merchant": "Bkk station by thai",
+    "category": "restaurant",
+    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-16T15:28:27.570212"
+  },
+  {
+    "amount": 16.0,
+    "merchant": "Amazon",
+    "category": "clothes",
+    "message": "Payment of AED 16 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-16T11:54:32.871958"
+  },
+  {
+    "amount": 39.0,
+    "merchant": "House of indonesia dm",
+    "category": "restaurant",
+    "message": "Payment of AED 39 was done at House of indonesia dm using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-15T16:24:58.398910"
+  },
+  {
+    "amount": 60.3,
+    "merchant": "Carrefour",
+    "category": "grocery",
+    "message": "Payment of AED 60.3 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-14T19:46:09.463043"
+  },
+  {
+    "amount": 35.7,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-14T14:41:06.742229"
+  },
+  {
+    "amount": 20.0,
+    "merchant": "Rta Jumeirah Lake",
+    "category": "transport",
+    "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-13T17:03:04.852769"
   },
   {
     "amount": 3.99,
     "merchant": "Apple",
-    "category": "entertainment",
+    "category": "services",
     "message": "Payment of AED 3.99 was done at Apple using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-13T16:46:46.440799"
+    "is_income": false,
+    "date": "2025-04-13T15:48:16.046368"
   },
   {
-    "amount": 402.75,
-    "merchant": "H&M",
-    "category": "clothes",
-    "message": "Payment of AED 402.75 was done at H&M using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-02T15:23:15.740881"
-  },
-  {
-    "amount": 60.3,
-    "merchant": "Al Maya S",
+    "amount": 11.98,
+    "merchant": "Al Maya Supermarket",
     "category": "grocery",
-    "message": "Payment of AED 60.3 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-18T19:16:17.733272"
+    "message": "Payment of AED 11.98 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-13T10:09:40.109365"
   },
   {
-    "amount": 157.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 157 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-28T10:13:33.501895"
-  },
-  {
-    "amount": 15.98,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 15.98 was done at Viva Times Square Mall using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-19T18:54:38.125816"
-  },
-  {
-    "amount": 18.27,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 18.27 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-27T13:55:21.128023"
-  },
-  {
-    "amount": 66.13,
-    "merchant": "Al Maya",
+    "amount": 124.79,
+    "merchant": "Carrefour",
     "category": "grocery",
-    "message": "Payment of AED 66.13 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-31T18:51:46.788061"
+    "message": "Payment of AED 124.79 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-12T14:26:45.795900"
   },
   {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-27T10:43:31.945531"
+    "amount": 35.7,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-11T15:07:57.021068"
   },
   {
-    "amount": 39.3,
-    "merchant": "Al Maya",
+    "amount": 109.33,
+    "merchant": "Impact mea fzc",
+    "category": "entertainment",
+    "message": "Payment of AED 109.33 was done at Impact mea fzc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-11T12:09:11.270854"
+  },
+  {
+    "amount": 34.0,
+    "merchant": "Golositalia",
+    "category": "restaurant",
+    "message": "Payment of AED 34 was done at Golositalia using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-10T14:53:50.135645"
+  },
+  {
+    "amount": 13.0,
+    "merchant": "Al Maya Supermarket",
     "category": "grocery",
-    "message": "Payment of AED 39.3 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-25T19:17:41.528729"
+    "message": "Payment of AED 13 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-09T19:28:41.286905"
   },
   {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-10T11:06:22.901819"
-  },
-  {
-    "amount": 27.82,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 27.82 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-22T16:22:09.731106"
-  },
-  {
-    "amount": 43.55,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 43.55 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-07T18:26:05.402286"
-  },
-  {
-    "amount": 23.11,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 23.11 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-21T14:26:31.356814"
-  },
-  {
-    "amount": 27.5,
-    "merchant": "D",
-    "category": "other",
-    "message": "Payment of AED 27.5 was done at Dubai Taxi using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T23:23:11.121727"
+    "amount": 33.6,
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
+    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-09T15:39:37.621781"
   },
   {
     "amount": 25.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 25 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-11T13:27:48.468213"
-  },
-  {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-04T10:17:16.871920"
-  },
-  {
-    "amount": 30.0,
-    "merchant": "Ho",
-    "category": "other",
-    "message": "Payment of AED 30 was done at House of indonesia dm using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-18T14:51:30.260807"
-  },
-  {
-    "amount": 50.0,
-    "merchant": "Smart D",
-    "category": "other",
-    "message": "Payment of AED 50 was done at Smart Dubai Government using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-14T11:32:49.179945"
-  },
-  {
-    "amount": 53.11,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 53.11 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-21T18:57:42.106064"
-  },
-  {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-30T10:28:33.392548"
-  },
-  {
-    "amount": 56.8,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 56.8 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-14T18:58:21.846094"
-  },
-  {
-    "amount": 30.0,
-    "merchant": "Chapter cafe a",
-    "category": "restaurant",
-    "message": "Payment of AED 30 was done at Chapter cafe and res using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-26T14:51:39.137389"
-  },
-  {
-    "amount": 9.5,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 9.5 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-24T14:49:29.222314"
-  },
-  {
-    "amount": 65.0,
-    "merchant": "Lo",
-    "category": "other",
-    "message": "Payment of AED 65 was done at Louvre using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-14T12:02:42.997133"
-  },
-  {
-    "amount": 46.1,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 46.1 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-03T18:49:18.717482"
-  },
-  {
-    "amount": 22.35,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 22.35 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-15T18:51:30.207996"
-  },
-  {
-    "amount": 15.74,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 15.74 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-13T13:19:42.855224"
-  },
-  {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-11T10:52:12.903902"
-  },
-  {
-    "amount": 27.99,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 27.99 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-21T18:53:11.931903"
-  },
-  {
-    "amount": 28.36,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 28.36 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-29T18:50:34.625257"
-  },
-  {
-    "amount": 41.08,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 41.08 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-29T10:41:19.997798"
-  },
-  {
-    "amount": 13.95,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 13.95 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-15T19:26:43.763779"
-  },
-  {
-    "amount": 85.0,
-    "merchant": "Jame",
-    "category": "other",
-    "message": "Payment of AED 85 was done at James pro barbers dmcc using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-22T18:35:05.122110"
-  },
-  {
-    "amount": 25.32,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 25.32 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-20T13:39:33.703313"
-  },
-  {
-    "amount": 40.8,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 40.8 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-12T18:42:58.803882"
-  },
-  {
-    "amount": 12.0,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 12 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-24T15:12:47.409124"
-  },
-  {
-    "amount": 27.0,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 27 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-19T18:59:34.287676"
-  },
-  {
-    "amount": 18.8,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 18.8 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-06T19:00:31.193659"
-  },
-  {
-    "amount": 20.53,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 20.53 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-27T18:59:57.218331"
-  },
-  {
-    "amount": 43.28,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 43.28 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-15T12:18:37.204394"
-  },
-  {
-    "amount": 17.7,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 17.7 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-08T16:29:18.587049"
-  },
-  {
-    "amount": 42.58,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 42.58 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-22T19:12:16.824855"
-  },
-  {
-    "amount": 62.06,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 62.06 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T13:20:39.104910"
-  },
-  {
-    "amount": 124.95,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 124.95 was done at Virgin Mobile using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-01T00:33:46.764492"
-  },
-  {
-    "amount": 101.18,
-    "merchant": "Unknown",
-    "category": "other",
-    "message": "Payment of AED 101.18 at Careem was cancelled and the amount has been credited back to your Wio Personal card ending with 1731.",
-    "date": "2025-02-15T17:23:31.478756"
-  },
-  {
-    "amount": 47.31,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 47.31 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-17T19:24:45.971443"
-  },
-  {
-    "amount": 9.0,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 9 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-26T11:35:14.297392"
-  },
-  {
-    "amount": 44.1,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 44.1 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-27T20:08:42.919590"
-  },
-  {
-    "amount": 1.0,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 1 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-15T12:15:50.941388"
-  },
-  {
-    "amount": 75.52,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 75.52 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-13T18:53:34.580945"
-  },
-  {
-    "amount": 61.91,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 61.91 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-09T18:04:14.486525"
-  },
-  {
-    "amount": 60.3,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 60.3 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T11:46:25.140630"
-  },
-  {
-    "amount": 48.35,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 48.35 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-26T18:45:36.590801"
-  },
-  {
-    "amount": 10.0,
-    "merchant": "Thr",
-    "category": "other",
-    "message": "Payment of AED 10 was done at Thrift for good used c using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-19T18:14:36.595192"
-  },
-  {
-    "amount": 75.0,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 75 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-20T17:07:28.059846"
-  },
-  {
-    "amount": 38.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 38 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-11T19:49:39.409987"
-  },
-  {
-    "amount": 1.77,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 1.77 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T12:11:52.583948"
-  },
-  {
-    "amount": 52.32,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 52.32 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-20T18:51:11.939343"
-  },
-  {
-    "amount": 29.1,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 29.1 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-01T20:02:38.370263"
-  },
-  {
-    "amount": 16.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 16 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T12:24:01.013448"
-  },
-  {
-    "amount": 5.95,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 5.95 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-19T15:03:18.221687"
-  },
-  {
-    "amount": 78.45,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 78.45 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-25T19:31:04.687651"
-  },
-  {
-    "amount": 32.64,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 32.64 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-14T18:38:25.576593"
-  },
-  {
-    "amount": 68.8,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 68.8 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-08T17:04:16.058354"
-  },
-  {
-    "amount": 25.05,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 25.05 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-05T20:17:09.997709"
-  },
-  {
-    "amount": 17.99,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 17.99 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-25T14:38:37.583923"
-  },
-  {
-    "amount": 51.65,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 51.65 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-04T19:05:16.855530"
-  },
-  {
-    "amount": 27.7,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 27.7 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-28T19:11:30.314394"
-  },
-  {
-    "amount": 62.06,
-    "merchant": "Unknown",
-    "category": "other",
-    "message": "Payment of AED 62.06 at Careem was cancelled and the amount has been credited back to your Wio Personal card ending with 1731.",
-    "date": "2025-02-16T13:40:46.664404"
-  },
-  {
-    "amount": 28.85,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 28.85 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-16T14:17:05.339156"
-  },
-  {
-    "amount": 22.31,
-    "merchant": "Sp",
-    "category": "other",
-    "message": "Payment of AED 22.31 was done at Spinneys using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-11T18:51:50.882019"
-  },
-  {
-    "amount": 30.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 30 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-26T13:07:17.936066"
-  },
-  {
-    "amount": 3.0,
-    "merchant": "Ava",
-    "category": "other",
-    "message": "Payment of AED 3,282.5 was done at Avanti using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-25T16:52:04.715850"
-  },
-  {
-    "amount": 20.63,
-    "merchant": "Alq",
-    "category": "other",
-    "message": "Payment of AED 20.63 was done at Alqithara Foodstuff using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-28T18:38:30.390473"
-  },
-  {
-    "amount": 101.18,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 101.18 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-15T16:49:59.404088"
-  },
-  {
-    "amount": 47.49,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 47.49 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-23T17:39:26.965852"
-  },
-  {
-    "amount": 5.95,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 5.95 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-17T15:14:07.660099"
-  },
-  {
-    "amount": 16.56,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 16.56 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-14T14:05:37.992849"
-  },
-  {
-    "amount": 55.48,
-    "merchant": "Careem",
-    "category": "transport",
-    "message": "Payment of AED 55.48 was done at Careem using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-15T20:55:38.707797"
-  },
-  {
-    "amount": 19.35,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 19.35 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-01-20T19:02:25.406248"
-  },
-  {
-    "amount": 69.14,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 69.14 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-18T18:52:03.517941"
-  },
-  {
-    "amount": 30.34,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 30.34 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-02T18:54:23.553438"
-  },
-  {
-    "amount": 124.95,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 124.95 was done at Virgin Mobile using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-01T00:38:37.415513"
-  },
-  {
-    "amount": 15.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 15 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-02T21:12:51.081068"
-  },
-  {
-    "amount": 19.1,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 19.1 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-28T19:12:27.081774"
-  },
-  {
-    "amount": 33.6,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-02-28T15:52:18.558651"
-  },
-  {
-    "amount": 61.55,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 61.55 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-01T18:19:41.580359"
-  },
-  {
-    "amount": 159.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 159 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-02T17:29:29.620883"
-  },
-  {
-    "amount": 171.88,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 171.88 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-02T21:09:35.864314"
-  },
-  {
-    "amount": 20.0,
-    "merchant": "Rta J",
-    "category": "transport",
-    "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-02T13:31:52.284429"
-  },
-  {
-    "amount": 24.55,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 24.55 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-03T18:54:46.789010"
-  },
-  {
-    "amount": 44.39,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 44.39 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-05T18:42:05.799761"
-  },
-  {
-    "amount": 15.3,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 15.3 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-04T19:32:13.271143"
-  },
-  {
-    "amount": 1.18,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 1.18 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-05T15:10:24.654667"
-  },
-  {
-    "amount": 40.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 40 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-04T15:51:54.547614"
-  },
-  {
-    "amount": 40.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 40 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-06T15:44:43.638951"
-  },
-  {
-    "amount": 64.28,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 64.28 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-06T19:03:17.054584"
-  },
-  {
-    "amount": 54.93,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 54.93 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-09T18:49:32.485970"
-  },
-  {
-    "amount": 20.0,
-    "merchant": "Rta D",
-    "category": "transport",
-    "message": "Payment of AED 20 was done at Rta Dubai Metro using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-09T17:52:27.949302"
-  },
-  {
-    "amount": 22.85,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 22.85 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-07T19:23:22.212935"
-  },
-  {
-    "amount": 0.99,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 0.99 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-08T17:00:08.142178"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-07T14:50:53.584368"
-  },
-  {
-    "amount": 21.38,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 21.38 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-11T13:23:02.354064"
-  },
-  {
-    "amount": 47.5,
-    "merchant": "Yo",
-    "category": "other",
-    "message": "Payment of AED 47.5 was done at Yosushi dubaimalqlub using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-11T22:10:59.999528"
-  },
-  {
-    "amount": 18.2,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 18.2 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-11T19:12:03.293109"
-  },
-  {
-    "amount": 25.2,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 25.2 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-12T20:31:25.454233"
-  },
-  {
-    "amount": 5.95,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 5.95 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-12T15:19:09.514835"
-  },
-  {
-    "amount": 3.99,
-    "merchant": "Apple",
+    "merchant": "Hive boardgame cafe",
     "category": "entertainment",
-    "message": "Payment of AED 3.99 was done at Apple using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-13T15:46:50.840769"
+    "message": "Payment of AED 25 was done at Hive boardgame cafe using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-08T20:57:05.504919"
   },
   {
     "amount": 39.0,
-    "merchant": "Bkk",
+    "merchant": "Bkk station by thai",
     "category": "restaurant",
     "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-13T15:41:55.364235"
-  },
-  {
-    "amount": 56.25,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 56.25 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-14T18:27:50.063177"
-  },
-  {
-    "amount": 16.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 16 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-16T11:56:40.497609"
-  },
-  {
-    "amount": 4.08,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 4.08 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-15T16:21:56.803480"
+    "is_income": false,
+    "date": "2025-04-08T15:52:09.413349"
   },
   {
     "amount": 33.6,
-    "merchant": "Ha",
-    "category": "other",
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
     "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-14T14:58:15.912112"
+    "is_income": false,
+    "date": "2025-04-07T16:12:12.282811"
   },
   {
-    "amount": 19.9,
-    "merchant": "Al Maya",
+    "amount": 110.49,
+    "merchant": "Carrefour",
     "category": "grocery",
-    "message": "Payment of AED 19.9 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-15T22:19:53.630881"
+    "message": "Payment of AED 110.49 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-06T18:25:35.932858"
   },
   {
-    "amount": 212.91,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 212.91 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-16T11:23:39.973136"
+    "amount": 25.5,
+    "merchant": "Amazon",
+    "category": "clothes",
+    "message": "Payment of AED 25.5 was done at Amazon using your Wio Personal card 1731 with Own AED funds.",
+    "is_income": false,
+    "date": "2025-04-06T09:01:43.458712"
   },
   {
-    "amount": 101.39,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 101.39 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-16T16:54:28.483172"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Ta",
-    "category": "other",
-    "message": "Payment of AED 39 was done at Tangerine Restaurant using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-18T14:44:41.442054"
-  },
-  {
-    "amount": 31.17,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 31.17 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-19T19:27:15.676458"
-  },
-  {
-    "amount": 75.55,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 75.55 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-20T18:48:51.311876"
-  },
-  {
-    "amount": 10.95,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 10.95 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-19T15:10:13.816600"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Bkk",
+    "amount": 76.0,
+    "merchant": "Transfer to ROMAN STRATEV",
     "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-20T15:35:36.125925"
+    "message": "Your local transfer of AED 76 to ROMAN STRATEV from your account number 60XXXX8103 was processed.",
+    "is_income": false,
+    "date": "2025-04-06T07:09:27.834879"
   },
   {
-    "amount": 33.0,
-    "merchant": "Cafe v",
-    "category": "restaurant",
-    "message": "Payment of AED 33 was done at Cafe villa llc using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-22T13:38:47.057125"
-  },
-  {
-    "amount": 19.65,
-    "merchant": "Al Maya S",
+    "amount": 37.05,
+    "merchant": "Waitrose",
     "category": "grocery",
-    "message": "Payment of AED 19.65 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-22T18:22:32.478437"
+    "message": "Payment of AED 37.05 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-05T19:06:01.008341"
+  },
+  {
+    "amount": 62.76,
+    "merchant": "Al Maya Supermarket",
+    "category": "grocery",
+    "message": "Payment of AED 62.76 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-04T18:41:18.218889"
   },
   {
     "amount": 46.2,
-    "merchant": "Ha",
-    "category": "other",
+    "merchant": "Hanoi restaurants jlt",
+    "category": "restaurant",
     "message": "Payment of AED 46.2 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-21T14:52:09.041401"
+    "is_income": false,
+    "date": "2025-04-04T14:56:07.486549"
   },
   {
-    "amount": 116.33,
-    "merchant": "Al Maya",
+    "amount": 7.15,
+    "merchant": "Al Maya Supermarket",
     "category": "grocery",
-    "message": "Payment of AED 116.33 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-24T18:44:57.573366"
+    "message": "Payment of AED 7.15 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-03T19:03:01.909548"
   },
   {
-    "amount": 10.8,
-    "merchant": "Al Maya",
-    "category": "grocery",
-    "message": "Payment of AED 10.8 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-21T18:46:31.749894"
+    "amount": 51.45,
+    "merchant": "Sosouth Dmcc",
+    "category": "restaurant",
+    "message": "Payment of AED 51.45 was done at Sosouth Dmcc using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-03T15:18:10.821601"
   },
   {
-    "amount": 20.0,
-    "merchant": "Rta J",
+    "amount": 39.0,
+    "merchant": "Bkk station by thai",
+    "category": "restaurant",
+    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-02T15:10:41.486698"
+  },
+  {
+    "amount": 30.0,
+    "merchant": "Transfer to Klim Kostiuk",
     "category": "transport",
-    "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-22T10:23:14.205788"
-  },
-  {
-    "amount": 33.6,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-26T16:28:15.621918"
-  },
-  {
-    "amount": 19.35,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 19.35 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-27T15:56:49.599052"
-  },
-  {
-    "amount": 124.95,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 124.95 was done at Virgin Mobile using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-01T00:37:07.262111"
+    "message": "Your local transfer of AED 30 to Klim Kostiuk from your account number 60XXXX8103 was processed.",
+    "is_income": false,
+    "date": "2025-04-02T08:57:12.701094"
   },
   {
     "amount": 20.3,
     "merchant": "Careem",
     "category": "transport",
     "message": "Payment of AED 20.3 was done at Careem using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
     "date": "2025-04-01T19:12:06.832643"
   },
   {
-    "amount": 624.34,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 624.34 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-29T10:01:28.074064"
+    "amount": 60.99,
+    "merchant": "Al Maya Supermarket",
+    "category": "grocery",
+    "message": "Payment of AED 60.99 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-01T16:23:05.967656"
   },
   {
-    "amount": 17.6,
-    "merchant": "Ga",
-    "category": "other",
-    "message": "Payment of AED 17.6 was done at Gastronomy nasha kuhny using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-28T14:23:22.931883"
+    "amount": 35.0,
+    "merchant": "Transfer to Klim Kostiuk",
+    "category": "transport",
+    "message": "Your local transfer of AED 35 to Klim Kostiuk from your account number 60XXXX8103 was processed.",
+    "is_income": false,
+    "date": "2025-04-01T10:32:25.794607"
   },
   {
-    "amount": 60.02,
-    "merchant": "V",
-    "category": "other",
-    "message": "Payment of AED 60.02 was done at Viva using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-28T18:20:19.071724"
+    "amount": 124.95,
+    "merchant": "Virgin Mobile",
+    "category": "services",
+    "message": "Payment of AED 124.95 was done at Virgin Mobile using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-04-01T00:37:07.262111"
   },
   {
     "amount": 43.5,
-    "merchant": "Wa",
-    "category": "other",
+    "merchant": "Waitrose",
+    "category": "grocery",
     "message": "Payment of AED 43.5 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
     "date": "2025-03-31T15:51:05.370836"
   },
   {
+    "amount": 25.0,
+    "merchant": "Brands For Less",
+    "category": "clothes",
+    "message": "Payment of AED 25 was done at Brands For Less using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-03-31T14:08:28.080219"
+  },
+  {
+    "amount": 15.0,
+    "merchant": "The Palm",
+    "category": "transport",
+    "message": "Payment of AED 15 was done at The Palm using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-03-31T11:29:06.010604"
+  },
+  {
     "amount": 20.0,
-    "merchant": "Rta J",
+    "merchant": "Rta Jumeirah Lake",
     "category": "transport",
     "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
     "date": "2025-03-30T12:27:56.372563"
   },
   {
@@ -977,258 +404,23 @@
     "merchant": "Al Maya",
     "category": "grocery",
     "message": "Payment of AED 15.45 was done at Al Maya using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
     "date": "2025-03-29T17:19:34.334500"
   },
   {
-    "amount": 15.0,
-    "merchant": "The Palm",
-    "category": "other",
-    "message": "Payment of AED 15 was done at The Palm using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-31T11:29:06.010604"
-  },
-  {
-    "amount": 60.99,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 60.99 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-01T16:23:05.967656"
-  },
-  {
-    "amount": 25.0,
-    "merchant": "Bra",
-    "category": "other",
-    "message": "Payment of AED 25 was done at Brands For Less using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-31T14:08:28.080219"
-  },
-  {
     "amount": 253.5,
-    "merchant": "Amazo",
-    "category": "other",
+    "merchant": "Amazon",
+    "category": "clothes",
     "message": "Payment of AED 253.5 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
     "date": "2025-03-29T14:18:10.550252"
   },
   {
-    "amount": 39.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-02T15:10:41.486698"
-  },
-  {
-    "amount": 7.15,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 7.15 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-03T19:03:01.909548"
-  },
-  {
-    "amount": 51.45,
-    "merchant": "So",
-    "category": "other",
-    "message": "Payment of AED 51.45 was done at Sosouth Dmcc using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-03T15:18:10.821601"
-  },
-  {
-    "amount": 46.2,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 46.2 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-04T14:56:07.486549"
-  },
-  {
-    "amount": 33.6,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-07T16:12:12.282811"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-08T15:52:09.413349"
-  },
-  {
-    "amount": 25.0,
-    "merchant": "H",
-    "category": "other",
-    "message": "Payment of AED 25 was done at Hive boardgame cafe using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-08T20:57:05.504919"
-  },
-  {
-    "amount": 33.6,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 33.6 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-09T15:39:37.621781"
-  },
-  {
-    "amount": 34.0,
-    "merchant": "Golo",
-    "category": "other",
-    "message": "Payment of AED 34 was done at Golositalia using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-10T14:53:50.135645"
-  },
-  {
-    "amount": 35.7,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-11T15:07:57.021068"
-  },
-  {
-    "amount": 124.79,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 124.79 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-12T14:26:45.795900"
-  },
-  {
-    "amount": 3.99,
-    "merchant": "Apple",
-    "category": "entertainment",
-    "message": "Payment of AED 3.99 was done at Apple using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-13T15:48:16.046368"
-  },
-  {
-    "amount": 11.98,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 11.98 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-13T10:09:40.109365"
-  },
-  {
-    "amount": 20.0,
-    "merchant": "Rta J",
-    "category": "transport",
-    "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-13T17:03:04.852769"
-  },
-  {
-    "amount": 109.33,
-    "merchant": "Impact mea fzc",
-    "category": "other",
-    "message": "Payment of AED 109.33 was done at Impact mea fzc using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-11T12:09:11.270854"
-  },
-  {
-    "amount": 60.3,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 60.3 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-14T19:46:09.463043"
-  },
-  {
-    "amount": 35.7,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-14T14:41:06.742229"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Ho",
-    "category": "other",
-    "message": "Payment of AED 39 was done at House of indonesia dm using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-15T16:24:58.398910"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-16T15:28:27.570212"
-  },
-  {
-    "amount": 16.0,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 16 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-16T11:54:32.871958"
-  },
-  {
-    "amount": 28.8,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 28.8 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-16T20:10:49.473985"
-  },
-  {
-    "amount": 35.7,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 35.7 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-17T15:30:01.390390"
-  },
-  {
-    "amount": 48.3,
-    "merchant": "Ha",
-    "category": "other",
-    "message": "Payment of AED 48.3 was done at Hanoi restaurants jlt using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-17T15:31:23.774956"
-  },
-  {
-    "amount": 13.7,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 13.7 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-18T19:37:44.385354"
-  },
-  {
-    "amount": 52.85,
-    "merchant": "Paymob dobraw dmcc",
-    "category": "other",
-    "message": "Payment of AED 52.85 was done at Paymob dobraw dmcc using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-18T15:59:31.293105"
-  },
-  {
-    "amount": 20.0,
-    "merchant": "Rta J",
-    "category": "transport",
-    "message": "Payment of AED 20 was done at Rta Jumeirah Lake using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-25T18:42:51.247316"
-  },
-  {
-    "amount": 25.5,
-    "merchant": "Amazo",
-    "category": "other",
-    "message": "Payment of AED 25.5 was done at Amazon using your Wio Personal card 1731 with Own AED funds.",
-    "date": "2025-04-06T09:01:43.458712"
-  },
-  {
-    "amount": 110.49,
-    "merchant": "Carrefo",
-    "category": "other",
-    "message": "Payment of AED 110.49 was done at Carrefour using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-06T18:25:35.932858"
-  },
-  {
-    "amount": 37.05,
-    "merchant": "Wa",
-    "category": "other",
-    "message": "Payment of AED 37.05 was done at Waitrose using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-05T19:06:01.008341"
-  },
-  {
-    "amount": 13.0,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 13 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-09T19:28:41.286905"
-  },
-  {
-    "amount": 39.0,
-    "merchant": "Bkk",
-    "category": "restaurant",
-    "message": "Payment of AED 39 was done at Bkk station by thai using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-03-25T15:58:54.700772"
-  },
-  {
-    "amount": 62.76,
-    "merchant": "Al Maya S",
-    "category": "grocery",
-    "message": "Payment of AED 62.76 was done at Al Maya Supermarket using your Wio Personal card 1731 with Own AED funds",
-    "date": "2025-04-04T18:41:18.218889"
+    "amount": 624.34,
+    "merchant": "Amazon",
+    "category": "clothes",
+    "message": "Payment of AED 624.34 was done at Amazon using your Wio Personal card 1731 with Own AED funds",
+    "is_income": false,
+    "date": "2025-03-29T10:01:28.074064"
   }
 ]

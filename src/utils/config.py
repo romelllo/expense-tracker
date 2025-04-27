@@ -19,13 +19,15 @@ class Config:
         return {
             # Get values from environment variables or use defaults
             "db_path": os.environ.get("EXPENSE_TRACKER_DB_PATH"),
-            "data_file": os.environ.get("EXPENSE_TRACKER_DATA_FILE",
-                "expenses.json"),
+            "data_file": os.environ.get("EXPENSE_TRACKER_DATA_FILE", "expenses.json"),
+            "categories_file": os.environ.get("EXPENSE_TRACKER_CATEGORIES_FILE",
+                                             os.path.join("src", "utils", "categories.json")),
         }
 
     def get(self, key: str, default: Any = None) -> Any:
         """Get configuration value"""
         return self.config.get(key, default)
+
 
 class ExpenseStore:
     """Store for persisting categorized expenses"""

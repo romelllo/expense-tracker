@@ -1,0 +1,58 @@
+{
+  "grocery": [
+    "carrefour",
+    "al maya supermarket",
+    "al maya",
+    "spinneys",
+    "waitrose",
+    "viva",
+    "supermarket",
+    "viva times square mall"
+  ],
+  "restaurant": [
+    "gastronomy nasha kuhny",
+    "bkk station by thai",
+    "hanoi restaurants jlt",
+    "streetery dmcc",
+    "manoushe n bites dmcc",
+    "paymob dobraw dmcc",
+    "house of indonesia dm",
+    "golositalia",
+    "sosouth dmcc",
+    "cafe villa llc",
+    "tangerine restaurant",
+    "yosushi dubaimalqlub",
+    "chapter cafe",
+    "alqithara foodstuff",
+    "transfer to roman stratev",
+    "restaurant"
+  ],
+  "entertainment": [
+    "impact mea fzc",
+    "hive boardgame cafe",
+    "vas3k",
+    "semen konnov",
+    "louvre"
+  ],
+  "transport": [
+    "careem",
+    "uber",
+    "dubai taxi",
+    "rta jumeirah lake",
+    "the palm",
+    "smart dubai government",
+    "Transfer to klim kostiuk"
+  ],
+  "clothes": [
+    "brands for less",
+    "h&m",
+    "thrift for good",
+    "digg vintage and thrif",
+    "Amazon"
+  ],
+  "services": ["apple", "virgin mobile"],
+  "rent": ["Asma Hasaneen"],
+  "beauty": ["james pro barbers"],
+  "health": ["avanti"],
+  "other": ["amazon"]
+}

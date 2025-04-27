@@ -1,6 +1,7 @@
 import re
-from typing import Dict, Any, Optional
 from datetime import datetime
+from typing import Any, Dict, Optional
+
 
 def extract_payment_details(message: str) -> Dict[str, Any]:
     """Extract payment details from message text
@@ -9,19 +10,77 @@ def extract_payment_details(message: str) -> Dict[str, Any]:
         message: The payment message text
 
     Returns:
-        Dictionary with extracted details (amount, merchant)
+        Dictionary with extracted details (amount, merchant, direction)
     """
-    amount_match = re.search(r'AED\s+(\d+\.?\d*)', message)
-    merchant_match = re.search(r'done at ([^using]+)', message)
+    result = {"amount": 0.0, "merchant": "Unknown", "message": message, "is_income": False}
 
-    amount = float(amount_match.group(1)) if amount_match else 0.0
-    merchant = merchant_match.group(1).strip() if merchant_match else "Unknown"
+    # Handle payment messages
+    if "Payment of AED" in message:
+        # Extract the amount
+        amount_match = re.search(r"Payment of AED\s+(\d+\.?\d*)", message)
 
-    return {
-        "amount": amount,
-        "merchant": merchant,
-        "message": message
-    }
+        # Extract the merchant more reliably with lookahead and lookbehind
+        merchant_match = re.search(r"done at (.*?)(?= using| with|$)", message)
+
+        if amount_match:
+            result["amount"] = float(amount_match.group(1))
+
+        if merchant_match:
+            result["merchant"] = merchant_match.group(1).strip()
+
+    # Handle incoming transfer messages
+    elif "AED" in message and ("sent by" in message or "has been credited" in message):
+        amount_match = re.search(r"AED\s+([0-9,]+\.?\d*)", message)
+        sender_match = re.search(r"sent by ([^and]+?)(?:and|$)", message)
+
+        if amount_match:
+            # Remove commas in numbers like 1,000
+            amount_str = amount_match.group(1).replace(",", "")
+            result["amount"] = float(amount_str)
+            result["is_income"] = True
+
+        if sender_match:
+            result["merchant"] = f"Transfer from {sender_match.group(1).strip()}"
+        else:
+            result["merchant"] = "Incoming Transfer"
+
+    # Handle outgoing transfer messages
+    elif "Your local transfer of AED" in message:
+        amount_match = re.search(r"transfer of AED\s+([0-9,]+\.?\d*)", message)
+        recipient_match = re.search(r"to (.*?)(?= from|$)", message)
+
+        if amount_match:
+            # Remove commas in numbers like 1,000
+            amount_str = amount_match.group(1).replace(",", "")
+            result["amount"] = float(amount_str)
+
+        if recipient_match:
+            result["merchant"] = f"Transfer to {recipient_match.group(1).strip()}"
+        else:
+            result["merchant"] = "Outgoing Transfer"
+
+    # Handle refund messages
+    elif "refunded" in message and "AED" in message:
+        amount_match = re.search(r"AED\s+([0-9,]+\.?\d*)", message)
+        source_match = re.search(r"from (.*?)(?= has| to|$)", message)
+
+        if amount_match:
+            # Remove commas in numbers like 1,000
+            amount_str = amount_match.group(1).replace(",", "")
+            result["amount"] = float(amount_str)
+            result["is_income"] = True
+
+        if source_match:
+            result["merchant"] = f"Refund from {source_match.group(1).strip()}"
+        else:
+            result["merchant"] = "Refund"
+
+    # For debugging - log any issues with extraction
+    if result["merchant"] == "Unknown" and "Payment" in message:
+        print(f"Warning: Could not extract merchant from: {message}")
+
+    return result
+
 
 def convert_imessage_date(timestamp: int) -> Optional[datetime]:
     """Convert iMessage timestamp to Python datetime
