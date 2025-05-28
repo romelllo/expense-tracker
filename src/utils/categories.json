@@ -32,7 +32,9 @@
     "hive boardgame cafe",
     "vas3k",
     "semen konnov",
-    "louvre"
+    "louvre",
+    "geidea reel entertainm",
+    "reel entertainment"
   ],
   "transport": [
     "careem",
@@ -52,7 +54,7 @@
   ],
   "services": ["apple", "virgin mobile"],
   "rent": ["Asma Hasaneen"],
-  "beauty": ["james pro barbers"],
-  "health": ["avanti"],
+  "beauty": ["james pro barbers", "the body shop"],
+  "health": ["avanti", "dubai london clinic"],
   "other": ["amazon"]
 }
